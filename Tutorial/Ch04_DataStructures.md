@@ -44,7 +44,7 @@ Within the *Lambda* programming language we can:
 
         >defs [definitions.txt] ;
         >defs.username ; 
-        Batnam
+        Batman
         >defs.password ;
         12345
         
