@@ -21,7 +21,7 @@ Launching *Lambda* directly will open it in its shell mode, through which we can
     
 There are three kinds of statements recognized by the shell - expression statements, definitions, and module imports.
 
-Every expression evaluates to an object having one of four possible data types - a symbol, a lambda function, a module, or the standing input stream.
+Every expression evaluates to an object having one of four possible data types - a symbol, a lambda function, a module, or the standard input stream.
 
 We'll hold off on covering modules and module imports until [Chapter 3: Modules](Ch03_Modules.md). The standard input stream will be covered in [Chapter 4: Data Structures](Ch04_DataStructures.md).
 
